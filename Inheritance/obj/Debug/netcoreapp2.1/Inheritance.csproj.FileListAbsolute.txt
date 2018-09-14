@@ -1,0 +1,10 @@
+/Users/mindaugaslazauskas/pluralsight/c#/fundamentals/Inheritance/bin/Debug/netcoreapp2.1/Inheritance.deps.json
+/Users/mindaugaslazauskas/pluralsight/c#/fundamentals/Inheritance/bin/Debug/netcoreapp2.1/Inheritance.runtimeconfig.json
+/Users/mindaugaslazauskas/pluralsight/c#/fundamentals/Inheritance/bin/Debug/netcoreapp2.1/Inheritance.runtimeconfig.dev.json
+/Users/mindaugaslazauskas/pluralsight/c#/fundamentals/Inheritance/bin/Debug/netcoreapp2.1/Inheritance.dll
+/Users/mindaugaslazauskas/pluralsight/c#/fundamentals/Inheritance/bin/Debug/netcoreapp2.1/Inheritance.pdb
+/Users/mindaugaslazauskas/pluralsight/c#/fundamentals/Inheritance/obj/Debug/netcoreapp2.1/Inheritance.csproj.CoreCompileInputs.cache
+/Users/mindaugaslazauskas/pluralsight/c#/fundamentals/Inheritance/obj/Debug/netcoreapp2.1/Inheritance.AssemblyInfoInputs.cache
+/Users/mindaugaslazauskas/pluralsight/c#/fundamentals/Inheritance/obj/Debug/netcoreapp2.1/Inheritance.AssemblyInfo.cs
+/Users/mindaugaslazauskas/pluralsight/c#/fundamentals/Inheritance/obj/Debug/netcoreapp2.1/Inheritance.dll
+/Users/mindaugaslazauskas/pluralsight/c#/fundamentals/Inheritance/obj/Debug/netcoreapp2.1/Inheritance.pdb

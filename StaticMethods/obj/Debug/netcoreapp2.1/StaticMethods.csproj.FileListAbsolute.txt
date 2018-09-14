@@ -1,0 +1,10 @@
+/Users/mindaugaslazauskas/pluralsight/c#/fundamentals/StaticMethods/bin/Debug/netcoreapp2.1/StaticMethods.deps.json
+/Users/mindaugaslazauskas/pluralsight/c#/fundamentals/StaticMethods/bin/Debug/netcoreapp2.1/StaticMethods.runtimeconfig.json
+/Users/mindaugaslazauskas/pluralsight/c#/fundamentals/StaticMethods/bin/Debug/netcoreapp2.1/StaticMethods.runtimeconfig.dev.json
+/Users/mindaugaslazauskas/pluralsight/c#/fundamentals/StaticMethods/bin/Debug/netcoreapp2.1/StaticMethods.dll
+/Users/mindaugaslazauskas/pluralsight/c#/fundamentals/StaticMethods/bin/Debug/netcoreapp2.1/StaticMethods.pdb
+/Users/mindaugaslazauskas/pluralsight/c#/fundamentals/StaticMethods/obj/Debug/netcoreapp2.1/StaticMethods.csproj.CoreCompileInputs.cache
+/Users/mindaugaslazauskas/pluralsight/c#/fundamentals/StaticMethods/obj/Debug/netcoreapp2.1/StaticMethods.AssemblyInfoInputs.cache
+/Users/mindaugaslazauskas/pluralsight/c#/fundamentals/StaticMethods/obj/Debug/netcoreapp2.1/StaticMethods.AssemblyInfo.cs
+/Users/mindaugaslazauskas/pluralsight/c#/fundamentals/StaticMethods/obj/Debug/netcoreapp2.1/StaticMethods.dll
+/Users/mindaugaslazauskas/pluralsight/c#/fundamentals/StaticMethods/obj/Debug/netcoreapp2.1/StaticMethods.pdb

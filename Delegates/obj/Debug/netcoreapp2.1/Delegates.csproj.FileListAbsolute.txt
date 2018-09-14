@@ -1,0 +1,10 @@
+/Users/mindaugaslazauskas/pluralsight/c#/fundamentals/Delegates/bin/Debug/netcoreapp2.1/Delegates.deps.json
+/Users/mindaugaslazauskas/pluralsight/c#/fundamentals/Delegates/bin/Debug/netcoreapp2.1/Delegates.runtimeconfig.json
+/Users/mindaugaslazauskas/pluralsight/c#/fundamentals/Delegates/bin/Debug/netcoreapp2.1/Delegates.runtimeconfig.dev.json
+/Users/mindaugaslazauskas/pluralsight/c#/fundamentals/Delegates/bin/Debug/netcoreapp2.1/Delegates.dll
+/Users/mindaugaslazauskas/pluralsight/c#/fundamentals/Delegates/bin/Debug/netcoreapp2.1/Delegates.pdb
+/Users/mindaugaslazauskas/pluralsight/c#/fundamentals/Delegates/obj/Debug/netcoreapp2.1/Delegates.csproj.CoreCompileInputs.cache
+/Users/mindaugaslazauskas/pluralsight/c#/fundamentals/Delegates/obj/Debug/netcoreapp2.1/Delegates.AssemblyInfoInputs.cache
+/Users/mindaugaslazauskas/pluralsight/c#/fundamentals/Delegates/obj/Debug/netcoreapp2.1/Delegates.AssemblyInfo.cs
+/Users/mindaugaslazauskas/pluralsight/c#/fundamentals/Delegates/obj/Debug/netcoreapp2.1/Delegates.dll
+/Users/mindaugaslazauskas/pluralsight/c#/fundamentals/Delegates/obj/Debug/netcoreapp2.1/Delegates.pdb

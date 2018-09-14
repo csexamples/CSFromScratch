@@ -1,0 +1,10 @@
+/Users/mindaugaslazauskas/pluralsight/c#/fundamentals/AbstractClasses/bin/Debug/netcoreapp2.1/AbstractClasses.deps.json
+/Users/mindaugaslazauskas/pluralsight/c#/fundamentals/AbstractClasses/bin/Debug/netcoreapp2.1/AbstractClasses.runtimeconfig.json
+/Users/mindaugaslazauskas/pluralsight/c#/fundamentals/AbstractClasses/bin/Debug/netcoreapp2.1/AbstractClasses.runtimeconfig.dev.json
+/Users/mindaugaslazauskas/pluralsight/c#/fundamentals/AbstractClasses/bin/Debug/netcoreapp2.1/AbstractClasses.dll
+/Users/mindaugaslazauskas/pluralsight/c#/fundamentals/AbstractClasses/bin/Debug/netcoreapp2.1/AbstractClasses.pdb
+/Users/mindaugaslazauskas/pluralsight/c#/fundamentals/AbstractClasses/obj/Debug/netcoreapp2.1/AbstractClasses.csproj.CoreCompileInputs.cache
+/Users/mindaugaslazauskas/pluralsight/c#/fundamentals/AbstractClasses/obj/Debug/netcoreapp2.1/AbstractClasses.AssemblyInfoInputs.cache
+/Users/mindaugaslazauskas/pluralsight/c#/fundamentals/AbstractClasses/obj/Debug/netcoreapp2.1/AbstractClasses.AssemblyInfo.cs
+/Users/mindaugaslazauskas/pluralsight/c#/fundamentals/AbstractClasses/obj/Debug/netcoreapp2.1/AbstractClasses.dll
+/Users/mindaugaslazauskas/pluralsight/c#/fundamentals/AbstractClasses/obj/Debug/netcoreapp2.1/AbstractClasses.pdb

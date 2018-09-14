@@ -1,0 +1,11 @@
+/Users/mindaugaslazauskas/pluralsight/c#/fundamentals/Constructors/bin/Debug/netcoreapp2.1/Constructors.deps.json
+/Users/mindaugaslazauskas/pluralsight/c#/fundamentals/Constructors/bin/Debug/netcoreapp2.1/Constructors.runtimeconfig.json
+/Users/mindaugaslazauskas/pluralsight/c#/fundamentals/Constructors/bin/Debug/netcoreapp2.1/Constructors.runtimeconfig.dev.json
+/Users/mindaugaslazauskas/pluralsight/c#/fundamentals/Constructors/bin/Debug/netcoreapp2.1/Constructors.dll
+/Users/mindaugaslazauskas/pluralsight/c#/fundamentals/Constructors/bin/Debug/netcoreapp2.1/Constructors.pdb
+/Users/mindaugaslazauskas/pluralsight/c#/fundamentals/Constructors/obj/Debug/netcoreapp2.1/Constructors.csprojAssemblyReference.cache
+/Users/mindaugaslazauskas/pluralsight/c#/fundamentals/Constructors/obj/Debug/netcoreapp2.1/Constructors.csproj.CoreCompileInputs.cache
+/Users/mindaugaslazauskas/pluralsight/c#/fundamentals/Constructors/obj/Debug/netcoreapp2.1/Constructors.AssemblyInfoInputs.cache
+/Users/mindaugaslazauskas/pluralsight/c#/fundamentals/Constructors/obj/Debug/netcoreapp2.1/Constructors.AssemblyInfo.cs
+/Users/mindaugaslazauskas/pluralsight/c#/fundamentals/Constructors/obj/Debug/netcoreapp2.1/Constructors.dll
+/Users/mindaugaslazauskas/pluralsight/c#/fundamentals/Constructors/obj/Debug/netcoreapp2.1/Constructors.pdb

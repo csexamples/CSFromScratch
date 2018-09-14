@@ -1,0 +1,10 @@
+/Users/mindaugaslazauskas/pluralsight/c#/fundamentals/Dictionaries/bin/Debug/netcoreapp2.1/Dictionaries.deps.json
+/Users/mindaugaslazauskas/pluralsight/c#/fundamentals/Dictionaries/bin/Debug/netcoreapp2.1/Dictionaries.runtimeconfig.json
+/Users/mindaugaslazauskas/pluralsight/c#/fundamentals/Dictionaries/bin/Debug/netcoreapp2.1/Dictionaries.runtimeconfig.dev.json
+/Users/mindaugaslazauskas/pluralsight/c#/fundamentals/Dictionaries/bin/Debug/netcoreapp2.1/Dictionaries.dll
+/Users/mindaugaslazauskas/pluralsight/c#/fundamentals/Dictionaries/bin/Debug/netcoreapp2.1/Dictionaries.pdb
+/Users/mindaugaslazauskas/pluralsight/c#/fundamentals/Dictionaries/obj/Debug/netcoreapp2.1/Dictionaries.csproj.CoreCompileInputs.cache
+/Users/mindaugaslazauskas/pluralsight/c#/fundamentals/Dictionaries/obj/Debug/netcoreapp2.1/Dictionaries.AssemblyInfoInputs.cache
+/Users/mindaugaslazauskas/pluralsight/c#/fundamentals/Dictionaries/obj/Debug/netcoreapp2.1/Dictionaries.AssemblyInfo.cs
+/Users/mindaugaslazauskas/pluralsight/c#/fundamentals/Dictionaries/obj/Debug/netcoreapp2.1/Dictionaries.dll
+/Users/mindaugaslazauskas/pluralsight/c#/fundamentals/Dictionaries/obj/Debug/netcoreapp2.1/Dictionaries.pdb

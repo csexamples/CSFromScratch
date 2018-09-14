@@ -1,0 +1,10 @@
+/Users/mindaugaslazauskas/pluralsight/c#/fundamentals/Exceptions/bin/Debug/netcoreapp2.1/Exceptions.deps.json
+/Users/mindaugaslazauskas/pluralsight/c#/fundamentals/Exceptions/bin/Debug/netcoreapp2.1/Exceptions.runtimeconfig.json
+/Users/mindaugaslazauskas/pluralsight/c#/fundamentals/Exceptions/bin/Debug/netcoreapp2.1/Exceptions.runtimeconfig.dev.json
+/Users/mindaugaslazauskas/pluralsight/c#/fundamentals/Exceptions/bin/Debug/netcoreapp2.1/Exceptions.dll
+/Users/mindaugaslazauskas/pluralsight/c#/fundamentals/Exceptions/bin/Debug/netcoreapp2.1/Exceptions.pdb
+/Users/mindaugaslazauskas/pluralsight/c#/fundamentals/Exceptions/obj/Debug/netcoreapp2.1/Exceptions.csproj.CoreCompileInputs.cache
+/Users/mindaugaslazauskas/pluralsight/c#/fundamentals/Exceptions/obj/Debug/netcoreapp2.1/Exceptions.AssemblyInfoInputs.cache
+/Users/mindaugaslazauskas/pluralsight/c#/fundamentals/Exceptions/obj/Debug/netcoreapp2.1/Exceptions.AssemblyInfo.cs
+/Users/mindaugaslazauskas/pluralsight/c#/fundamentals/Exceptions/obj/Debug/netcoreapp2.1/Exceptions.dll
+/Users/mindaugaslazauskas/pluralsight/c#/fundamentals/Exceptions/obj/Debug/netcoreapp2.1/Exceptions.pdb

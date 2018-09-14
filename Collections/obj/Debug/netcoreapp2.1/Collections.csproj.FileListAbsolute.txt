@@ -1,0 +1,10 @@
+/Users/mindaugaslazauskas/pluralsight/c#/fundamentals/Collections/bin/Debug/netcoreapp2.1/Collections.deps.json
+/Users/mindaugaslazauskas/pluralsight/c#/fundamentals/Collections/bin/Debug/netcoreapp2.1/Collections.runtimeconfig.json
+/Users/mindaugaslazauskas/pluralsight/c#/fundamentals/Collections/bin/Debug/netcoreapp2.1/Collections.runtimeconfig.dev.json
+/Users/mindaugaslazauskas/pluralsight/c#/fundamentals/Collections/bin/Debug/netcoreapp2.1/Collections.dll
+/Users/mindaugaslazauskas/pluralsight/c#/fundamentals/Collections/bin/Debug/netcoreapp2.1/Collections.pdb
+/Users/mindaugaslazauskas/pluralsight/c#/fundamentals/Collections/obj/Debug/netcoreapp2.1/Collections.csproj.CoreCompileInputs.cache
+/Users/mindaugaslazauskas/pluralsight/c#/fundamentals/Collections/obj/Debug/netcoreapp2.1/Collections.AssemblyInfoInputs.cache
+/Users/mindaugaslazauskas/pluralsight/c#/fundamentals/Collections/obj/Debug/netcoreapp2.1/Collections.AssemblyInfo.cs
+/Users/mindaugaslazauskas/pluralsight/c#/fundamentals/Collections/obj/Debug/netcoreapp2.1/Collections.dll
+/Users/mindaugaslazauskas/pluralsight/c#/fundamentals/Collections/obj/Debug/netcoreapp2.1/Collections.pdb

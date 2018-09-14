@@ -1,0 +1,10 @@
+/Users/mindaugaslazauskas/pluralsight/c#/fundamentals/fundamentals/bin/Debug/netcoreapp2.1/TypesAndClasses.deps.json
+/Users/mindaugaslazauskas/pluralsight/c#/fundamentals/fundamentals/bin/Debug/netcoreapp2.1/TypesAndClasses.runtimeconfig.json
+/Users/mindaugaslazauskas/pluralsight/c#/fundamentals/fundamentals/bin/Debug/netcoreapp2.1/TypesAndClasses.runtimeconfig.dev.json
+/Users/mindaugaslazauskas/pluralsight/c#/fundamentals/fundamentals/bin/Debug/netcoreapp2.1/TypesAndClasses.dll
+/Users/mindaugaslazauskas/pluralsight/c#/fundamentals/fundamentals/bin/Debug/netcoreapp2.1/TypesAndClasses.pdb
+/Users/mindaugaslazauskas/pluralsight/c#/fundamentals/fundamentals/obj/Debug/netcoreapp2.1/TypesAndClasses.csproj.CoreCompileInputs.cache
+/Users/mindaugaslazauskas/pluralsight/c#/fundamentals/fundamentals/obj/Debug/netcoreapp2.1/TypesAndClasses.AssemblyInfoInputs.cache
+/Users/mindaugaslazauskas/pluralsight/c#/fundamentals/fundamentals/obj/Debug/netcoreapp2.1/TypesAndClasses.AssemblyInfo.cs
+/Users/mindaugaslazauskas/pluralsight/c#/fundamentals/fundamentals/obj/Debug/netcoreapp2.1/TypesAndClasses.dll
+/Users/mindaugaslazauskas/pluralsight/c#/fundamentals/fundamentals/obj/Debug/netcoreapp2.1/TypesAndClasses.pdb

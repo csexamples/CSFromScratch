@@ -1,0 +1,10 @@
+/Users/mindaugaslazauskas/pluralsight/c#/fundamentals/Async/bin/Debug/netcoreapp2.1/Async.deps.json
+/Users/mindaugaslazauskas/pluralsight/c#/fundamentals/Async/bin/Debug/netcoreapp2.1/Async.runtimeconfig.json
+/Users/mindaugaslazauskas/pluralsight/c#/fundamentals/Async/bin/Debug/netcoreapp2.1/Async.runtimeconfig.dev.json
+/Users/mindaugaslazauskas/pluralsight/c#/fundamentals/Async/bin/Debug/netcoreapp2.1/Async.dll
+/Users/mindaugaslazauskas/pluralsight/c#/fundamentals/Async/bin/Debug/netcoreapp2.1/Async.pdb
+/Users/mindaugaslazauskas/pluralsight/c#/fundamentals/Async/obj/Debug/netcoreapp2.1/Async.csproj.CoreCompileInputs.cache
+/Users/mindaugaslazauskas/pluralsight/c#/fundamentals/Async/obj/Debug/netcoreapp2.1/Async.AssemblyInfoInputs.cache
+/Users/mindaugaslazauskas/pluralsight/c#/fundamentals/Async/obj/Debug/netcoreapp2.1/Async.AssemblyInfo.cs
+/Users/mindaugaslazauskas/pluralsight/c#/fundamentals/Async/obj/Debug/netcoreapp2.1/Async.dll
+/Users/mindaugaslazauskas/pluralsight/c#/fundamentals/Async/obj/Debug/netcoreapp2.1/Async.pdb
