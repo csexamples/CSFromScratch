@@ -14,7 +14,7 @@ namespace Delegates
             }
             else
             {
-                Console.WriteLine("Media faied. Reject.");
+                Console.WriteLine("Media falied. Reject.");
             }
         }
     }

@@ -8,3 +8,4 @@
 /Users/mindaugaslazauskas/pluralsight/c#/fundamentals/Lists/obj/Debug/netcoreapp2.1/Lists.AssemblyInfo.cs
 /Users/mindaugaslazauskas/pluralsight/c#/fundamentals/Lists/obj/Debug/netcoreapp2.1/Lists.dll
 /Users/mindaugaslazauskas/pluralsight/c#/fundamentals/Lists/obj/Debug/netcoreapp2.1/Lists.pdb
+/Users/mindaugaslazauskas/pluralsight/c#/fundamentals/Lists/obj/Debug/netcoreapp2.1/Lists.csprojAssemblyReference.cache
